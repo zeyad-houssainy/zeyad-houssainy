@@ -1,4 +1,7 @@
 ## Hi there 👋
+i'm a team leader in an architectural engineering company
+i seek to become w web developer. 
+currently studying Backend and Frontend courses with ALX
 
 <!--
 **zeyad-houssainy/zeyad-houssainy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

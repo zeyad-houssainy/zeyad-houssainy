@@ -29,4 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyad-houssainy&show_icons=true&locale=en" alt="zeyad-houssainy" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?zeyad-houssainy=anuraghazra&layout=compact" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeyad-houssainy&" alt="zeyad-houssainy" /></p>

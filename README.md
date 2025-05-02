@@ -1,5 +1,5 @@
 ## Hi there 👋
-i'm a team leader in an architectural engineering company
+i'm a team leader in an architectural engineering company<br>
 i seek to become w web developer. 
 currently studying Backend and Frontend courses with ALX
 
